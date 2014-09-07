@@ -1,6 +1,8 @@
 fisa-vim-config
 ===============
 
+First of all, you should use the 'pip install ' command to install the 'vim-debug' and the 'isort'.
+
 my vim configuration (lot of python, autocompletion, fuzzy finder, debugger, ...)
 
 What is this?
