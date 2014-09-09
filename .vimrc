@@ -34,6 +34,7 @@ Bundle 'gmarik/vundle'
 Bundle 'fisadev/vim-debug.vim'
 " Better file browser
 Bundle 'scrooloose/nerdtree'
+autocmd VimEnter * NERDTree
 " Code commenter
 Bundle 'scrooloose/nerdcommenter'
 " Class/module browser
